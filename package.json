@@ -1,0 +1,16 @@
+{
+  "name": "MeaningOfName",
+  "version": "1.0.0",
+  "description": "Azərbaycan adlarının mənaları",
+  "main": "index.js",
+  "author": "Farid Babayev",
+  "license": "ISC",
+  "scripts": {
+         "start": "node index.js"
+   },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bootbot": "^1.0.14",
+    "config": "^1.30.0"
+  }
+}
